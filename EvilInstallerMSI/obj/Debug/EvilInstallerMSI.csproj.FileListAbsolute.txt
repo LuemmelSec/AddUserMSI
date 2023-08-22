@@ -1,0 +1,14 @@
+C:\Users\IEUser\source\repos\EvilInstallerMSI\EvilInstallerMSI\bin\Debug\EvilInstallerMSI.exe.config
+C:\Users\IEUser\source\repos\EvilInstallerMSI\EvilInstallerMSI\bin\Debug\EvilInstallerMSI.exe
+C:\Users\IEUser\source\repos\EvilInstallerMSI\EvilInstallerMSI\bin\Debug\EvilInstallerMSI.pdb
+C:\Users\IEUser\source\repos\EvilInstallerMSI\EvilInstallerMSI\obj\Debug\EvilInstallerMSI.csprojAssemblyReference.cache
+C:\Users\IEUser\source\repos\EvilInstallerMSI\EvilInstallerMSI\obj\Debug\EvilInstallerMSI.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\source\repos\EvilInstallerMSI\EvilInstallerMSI\obj\Debug\EvilInstallerMSI.exe
+C:\Users\IEUser\source\repos\EvilInstallerMSI\EvilInstallerMSI\obj\Debug\EvilInstallerMSI.pdb
+C:\Tools_manual\EvilInstallerMSI\EvilInstallerMSI\bin\Debug\EvilInstallerMSI.exe.config
+C:\Tools_manual\EvilInstallerMSI\EvilInstallerMSI\bin\Debug\EvilInstallerMSI.exe
+C:\Tools_manual\EvilInstallerMSI\EvilInstallerMSI\bin\Debug\EvilInstallerMSI.pdb
+C:\Tools_manual\EvilInstallerMSI\EvilInstallerMSI\obj\Debug\EvilInstallerMSI.csprojAssemblyReference.cache
+C:\Tools_manual\EvilInstallerMSI\EvilInstallerMSI\obj\Debug\EvilInstallerMSI.csproj.CoreCompileInputs.cache
+C:\Tools_manual\EvilInstallerMSI\EvilInstallerMSI\obj\Debug\EvilInstallerMSI.exe
+C:\Tools_manual\EvilInstallerMSI\EvilInstallerMSI\obj\Debug\EvilInstallerMSI.pdb
